@@ -86,3 +86,4 @@ Weitere kreative Methoden
 [^6]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
 [^7]: [World-Café](https://www.methodenkartei.uni-oldenburg.de/uni_methode/world-cafe/)
 
+ 
