@@ -85,4 +85,4 @@ Weitere kreative Methoden
 [^5]: [World-Café - Gespräche, die zählen](https://www.agonda.de/World-Cafe/world-cafe.html)
 [^6]: [Methodeneinsatz - World Café](https://www.kas.de/de/web/politische-bildung/world-cafe)
 [^7]: [World-Café](https://www.methodenkartei.uni-oldenburg.de/uni_methode/world-cafe/)
-
+ 
